@@ -1,7 +1,9 @@
 # lab8Fib
 ## About: 
-* The program is a basic fibonnaci sequence program, where it <br> 
-  shows the first given number, in this case 10, of fibonacci numbers.
+* The program is a basic fibonacci sequence program, where it <br> 
+  shows the first given number, in this case 10, of fibonacci numbers. <br> 
+  The fibonacci sequence is interesting because it is the go-to function <br>
+  to teach recursion.
 ## Basic structure of the program: 
 * The programs starts by defining what the functions is, in this case its fib.
 * After that it determine whether the number is greater than 2, and if not it, <br>
